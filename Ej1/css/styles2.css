@@ -1,0 +1,36 @@
+#titulo{
+    color: rgb(9, 141, 42);
+}
+#titulo2{
+    color: rgb(161, 55, 6);
+}
+body{
+    background-color: bisque;
+}
+.link{
+    color: rgb(129, 3, 98);
+}
+.texto{
+    color: red;
+}
+.text2{
+    color: blueviolet;   
+}
+.text3{
+    color: peru;
+}
+.text4{
+    color: rgb(48, 12, 145);
+}
+.uno{
+    color: orange;    
+}
+.dos{
+    color: rgb(3, 99, 75);
+}
+.tres{
+    color: blue;
+}
+.cuatro{
+    color: red;
+}

@@ -1,0 +1,31 @@
+*{
+    font-family: Arial;
+}
+h1{
+    color: rgb(0, 73, 107);
+    text-align: center;
+}
+.inicio{
+    text-align: center;
+}
+h2{
+    color: rgb(124, 196, 214);
+}
+
+body{
+    background-color: rgb(241, 241, 205);
+}
+a:link{
+    color: #CC0000;
+}
+a:hover{
+    background-color: yellow;
+    color: #05e66a;
+}
+a:visited{
+    color: #7e0378;
+}
+a:active{
+    background-color: rgb(67, 77, 11);
+    color: #5fad05;
+}
